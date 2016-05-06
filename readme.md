@@ -31,7 +31,7 @@ Some materials related to cibersecurity
 
 
 ### CTFs
--List here all capture the flag events
+-Here is a [link](https://ctftime.org/event/list/upcoming) to a ctf list.
 
 
 ## Security Conferences
@@ -58,7 +58,7 @@ Here are some nice security conferences for 2016, it is listed in descending dat
 
 **[You Sh0t the Sheriff Conference (YSTS), on June 13, 2016](http://www.ysts.org/)**
 
--  Invited Only
+-  Invite needed
 
 **[APPSEC](http://2016.appsec.eu/)**
 
@@ -76,7 +76,7 @@ Here are some nice security conferences for 2016, it is listed in descending dat
 - When: July 30-August 4, 2016
 - Where: Mandalay Bay, Las Vegas, Nevada, USA
 - Price:
-        - Students: R$ 894,00
+        - Academic: R$ 895,00(ends 22 july)
 
 **[DEFCON](https://www.defcon.org/index.html)**
 
