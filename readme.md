@@ -29,10 +29,8 @@ Some materials related to cibersecurity
 
 - [Kali Linux](https://www.kali.org/)
 
-
 ### CTFs
--Here is a [link](https://ctftime.org/event/list/upcoming) to a ctf list.
-
+- Here is a [link](https://ctftime.org/event/list/upcoming) to a ctf list.
 
 ## Security Conferences
 
@@ -65,18 +63,18 @@ Here are some nice security conferences for 2016, it is listed in descending dat
 - When: 27/06/2016 - 01/07/2016
 - Where: MARRIOTT PARK HOTEL, Rome, Italy
 - Price: (With taxes)
-    - Students: 91,50 €
-    - Non Members:
-        - Early Birds: 488,00 €
-        - Regular: 610,00 €
-        - On-site: 732,00 €
+ - Students: 91,50 €
+ - Non Members:
+  - Early Birds: 488,00 €
+  - Regular: 610,00 €
+  - On-site: 732,00 €
 
 **[BlackHat](http://blackhat.com/)**
 
 - When: July 30-August 4, 2016
 - Where: Mandalay Bay, Las Vegas, Nevada, USA
 - Price:
-        - Academic: R$ 895,00(ends 22 july)
+ - Academic: R$ 895,00(ends 22 july)
 
 **[DEFCON](https://www.defcon.org/index.html)**
 
@@ -86,16 +84,16 @@ Here are some nice security conferences for 2016, it is listed in descending dat
 
 You can go in both BlackHat and DEFCON, one just after the other in Vegas.
 
-
 **[RoadSec†](http://roadsec.com.br)†**
 
 - When: 29/10//2016 (check the [pro](http://roadsec.com.br/calendario2016) dates too)
 - Where: PORTO ALEGRE - RS, Brazil
-- Price: 
-    - Regular: R$ 80,00
-    - Student: R$ 40,00
+- Price:
+ - Regular: R$ 80,00
+ - Student: R$ 40,00
 
 †Many non listed Roadsec events happening in brazilian cities, check [here](http://roadsec.com.br/calendario2016)
 
-##Sources:
+## Sources:
+
 [tripwire](http://www.tripwire.com/state-of-security/off-topic/the-top-10-information-security-conferences-of-2016/) and [lanyrd](http://lanyrd.com/topics/cyber-security/)
