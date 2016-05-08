@@ -38,21 +38,21 @@ Here are some nice security conferences for 2016, it is listed in descending dat
 
 **[HITB SECCONF](http://conference.hitb.org/hitbsecconf2016ams/)**
 
-- When: 23rd - 27th May 2016
-- Where: NH Grand Krasnapolsky, Amsterdam, NH
-- Price: ??
+- *When*: 23rd - 27th May 2016
+- *Where*: NH Grand Krasnapolsky, Amsterdam, NH
+- *Price*: ??
 
 **[InfoSecurity Europe](http://www.infosecurityeurope.com/)**
 
-- When: June 7-9, 2016
-- Where: London Olympia, London, UK
-- Price: Free
+- *When*: June 7-9, 2016
+- *Where*: London Olympia, London, UK
+- *Price*: Free
 
 **[BSides Latam](http://www.securitybsides.com/w/page/104120015/BSidesLatam)**
 
-- When: June 11 and 12, 2016
-- Where: PUC-SP (Consolação), São Paulo, Brazil
-- Price: Free
+- *When*: June 11 and 12, 2016
+- *Where*: PUC-SP (Consolação), São Paulo, Brazil
+- *Price*: Free
 
 **[You Sh0t the Sheriff Conference (YSTS), on June 13, 2016](http://www.ysts.org/)**
 
@@ -60,39 +60,39 @@ Here are some nice security conferences for 2016, it is listed in descending dat
 
 **[APPSEC](http://2016.appsec.eu/)**
 
-- When: 27/06/2016 - 01/07/2016
-- Where: MARRIOTT PARK HOTEL, Rome, Italy
-- Price: (With taxes)
+- *When*: 27/06/2016 - 01/07/2016
+- *Where*: MARRIOTT PARK HOTEL, Rome, Italy
+- *Price*: (With taxes)
  - Students: 91,50 €
  - Non Members:
-  - Early Birds: 488,00 €
-  - Regular: 610,00 €
-  - On-site: 732,00 €
+  - *Early Birds*: 488,00 €
+  - *Regular*: 610,00 €
+  - *On-site*: 732,00 €
 
 **[BlackHat](http://blackhat.com/)**
 
-- When: July 30-August 4, 2016
-- Where: Mandalay Bay, Las Vegas, Nevada, USA
-- Price:
- - Academic: R$ 895,00(ends 22 july)
+- *When*: July 30-August 4, 2016
+- *Where*: Mandalay Bay, Las Vegas, Nevada, USA
+- *Price*:
+ - *Academic*: R$ 895,00(ends 22 july)
 
 **[DEFCON](https://www.defcon.org/index.html)**
 
-- When: August 4-7, 2016
-- Where: Paris/Bally’s, Las Vegas, NV, USA
-- Price: U$ 240,00
+- *When*: August 4-7, 2016
+- *Where*: Paris/Bally’s, Las Vegas, NV, USA
+- *Price*: U$ 240,00
 
 You can go in both BlackHat and DEFCON, one just after the other in Vegas.
 
-**[RoadSec†](http://roadsec.com.br)†**
+**[RoadSec](http://roadsec.com.br)**
 
-- When: 29/10//2016 (check the [pro](http://roadsec.com.br/calendario2016) dates too)
-- Where: PORTO ALEGRE - RS, Brazil
-- Price:
- - Regular: R$ 80,00
- - Student: R$ 40,00
+- *When*: 29/10//2016 (check the [pro](http://roadsec.com.br/calendario2016) dates too)
+- *Where*: PORTO ALEGRE - RS, Brazil
+- *Price*:
+ - *Regular*: R$ 80,00
+ - *Student*: R$ 40,00
 
-†Many non listed Roadsec events happening in brazilian cities, check [here](http://roadsec.com.br/calendario2016)
+Many non listed Roadsec events happening in brazilian cities, check [here](http://roadsec.com.br/calendario2016)
 
 ## Sources:
 
