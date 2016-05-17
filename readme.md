@@ -86,10 +86,18 @@ Here are some nice security conferences for 2016, it is listed in descending dat
 
 You can go in both BlackHat and DEFCON, one just after the other in Vegas.
 
+**[H2HC](https://www.h2hc.com.br/h2hc/pt/inscricoes)**
+- When: October 22-23, 2016
+- Where: Novotel Morumbi, São Paulo, Brazil
+- Price: 
+    - Until 15/05/2016 - R$ 50.00
+    - Until 25/05/2016 - R$ 100.00
+    - Until 31/05/2016 - R$ 150.00
+    - On-site - R$ 790.00
 
 **[RoadSec†](http://roadsec.com.br)†**
 
-- When: 29/10//2016 (check the [pro](http://roadsec.com.br/calendario2016) dates too)
+- When: October 29, 2016 (check the [pro](http://roadsec.com.br/calendario2016) dates too)
 - Where: PORTO ALEGRE - RS, Brazil
 - Price: 
     - Regular: R$ 80,00
